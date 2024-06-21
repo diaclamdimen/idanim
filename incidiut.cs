@@ -1,0 +1,1 @@
+string snapshotPath = string.Empty;
